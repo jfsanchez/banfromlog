@@ -1,0 +1,10 @@
+CREATE TABLE `blacklist` (
+  `id` int(11) NOT NULL auto_increment,
+  `ip` varchar(50) NOT NULL,
+  `comment` varchar(250) default '',
+  PRIMARY KEY  (`id`),
+  UNIQUE KEY `ip` (`ip`),
+  UNIQUE KEY `ip_2` (`ip`),
+  KEY `ip_3` (`ip`)
+) TYPE=MyISAM AUTO_INCREMENT=10;
+

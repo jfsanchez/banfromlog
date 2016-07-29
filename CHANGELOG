@@ -1,0 +1,11 @@
+24 Feb 2006
+------------
+
+	* Password support for MySQL databases
+	* Fixed the first line "ip" in the SELECT (was the name of the table and not an IP).
+
+
+26 July 2005
+-------------
+
+	* First version: sqlite & MySQL support

@@ -1,0 +1,5 @@
+This is the "to do" list
+
+- Only forbid an ip after a personalized number of illegal attempts
+- Forbid ip with an user that exists but that have many attempts from the same ip
+- Forbid only during a period of time
