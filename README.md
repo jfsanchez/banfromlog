@@ -1,0 +1,2 @@
+# banfromlog
+Old script
